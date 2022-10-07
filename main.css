@@ -1,0 +1,20 @@
+#container {
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: space-between;
+}
+
+.pet {
+    border: thin solid black;
+}
+
+h3 {
+    width: 100%;
+    text-align: center;
+}
+
+li {
+    list-style: none;
+    margin-left: -1rem;
+    margin-right: 1rem;
+}
